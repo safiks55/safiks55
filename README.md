@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @safiks55
-- 👀 I’m interested in software dev/gaming
+- 👀 I’m interested in software dev/ web dev / pc gaming
 - 🌱 I’m currently learning CSS and HTML
 
 <!---
